@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ZingleApiAndroid.iml" filepath="$PROJECT_DIR$/ZingleApiAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zingle_android_sdk/zingle_android_sdk.iml" filepath="$PROJECT_DIR$/zingle_android_sdk/zingle_android_sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zingle_java_sdk/zingle_java_sdk.iml" filepath="$PROJECT_DIR$/zingle_java_sdk/zingle_java_sdk.iml" />
+    </modules>
+  </component>
+</project>
